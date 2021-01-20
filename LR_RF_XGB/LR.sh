@@ -1,0 +1,1 @@
+python ./src/logistic_regression.py -flag test -output_model_dir ./model_LR -load_model_dir ./model_LR -data_dir ./data/

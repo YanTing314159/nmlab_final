@@ -1,0 +1,1 @@
+python ./src/xgb.py -data_dir ./data/
